@@ -19,5 +19,5 @@ The privacy policy is published via GitHub Pages at:
 ### Contact Information
 - **Developer / Publisher:** Green Mouse
 - **Legal Representative:** Damir Žiher
-- **Email:** damir.ziher@gmail.com
+- **Email:** wakasandro@gmail.com
 - **Repository:** [https://github.com/dziher11/CashRegister](https://github.com/dziher11/CashRegister)
